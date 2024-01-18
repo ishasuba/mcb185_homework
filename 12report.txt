@@ -1,0 +1,14 @@
+Thu Jan 18 13:20:16 PST 2024
+user: ishasuba
+home: /Users/ishasuba
+shell: /bin/bash
+pwd: /Users/ishasuba/Code/mcb185_homework
+path: /Library/Frameworks/Python.framework/Versions/3.10/bin:/Library/Frameworks/Python.framework/Versions/3.8/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Library/TeX/texbin:/opt/X11/bin
+Darwin Ishas-MacBook-Air-2.local 21.6.0 Darwin Kernel Version 21.6.0: Thu Nov  9 00:38:19 PST 2023; root:xnu-8020.240.18.705.10~1/RELEASE_X86_64 x86_64
+Python 3.10.4
+/Users/ishasuba/Code
+/Users/ishasuba/Code/mcb185_homework
+/Users/ishasuba/Code/mcb185_homework/.git
+/Users/ishasuba/Code/MCB185
+/Users/ishasuba/Code/MCB185/.git
+/Users/ishasuba/Code/MCB185/data
