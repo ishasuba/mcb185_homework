@@ -1,2 +1,2 @@
-Real name: Isha Suba
-Linux username: ishasuba
+echo "real name: isha suba"
+echo "linux username: ishasuba"
