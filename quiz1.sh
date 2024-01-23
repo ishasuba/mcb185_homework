@@ -1,2 +1,2 @@
-print("Real name: Isha Suba")
-print("Linux username: ishasuba")
+Real name: Isha Suba
+Linux username: ishasuba
