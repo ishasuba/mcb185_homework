@@ -3,9 +3,9 @@
 print('hello, again') # greeting
 
 # practice math 
-print (1 + 1)
-print (5 % 2)
-print (2**3)
+print(1 + 1)
+print(5 % 2)
+print(2**3)
 
 import math 
 math.log10(50)
@@ -24,7 +24,7 @@ def pythagoras(a, b):
 	assert(b > 0)
 	c = math.sqrt(a**2 + b**2)
 	return c
-x = pythagoras(3,4)
+x = pythagoras(3, 4)
 print(x)
 
 # practice
