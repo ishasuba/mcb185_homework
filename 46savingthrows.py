@@ -1,4 +1,5 @@
 # This code is based on Jordan's demo in class 2/8
+# edit: one of the roll variables was named wrong
 
 import random
 
@@ -36,7 +37,7 @@ for dc in range(5, 16, 5):
 	for n in range(trials):
 		roll_d1 = random.randint(1, 20)
 		roll_d2 = random.randint(1, 20)
-		if roll_d1 < roll_a2: min_score = roll_d1
+		if roll_d1 < roll_d2: min_score = roll_d1
 		else: min_score = roll_d2
 		if min_score >= dc: success += 1
 	print(success / trials)
